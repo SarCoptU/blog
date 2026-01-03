@@ -1,0 +1,32 @@
+baseURL: "http://localhost:1313/"
+languageCode: "en-us"
+title: "CyberSec Journey"
+theme: "PaperMod"
+
+pagination:
+  pagerSize: 10
+
+enableRobotsTXT: true
+
+taxonomies:
+  category: categories
+  tag: tags
+
+buildDrafts: true
+buildFuture: true
+# buildExpired: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+# Optionally silence the warnings Hugo prints about raw HTML
+ignoreLogs:
+  - warning-goldmark-raw-html
+
+params:
+  mainSections: ["posts"]    
+
+permalinks:
+  posts: /posts/:slug/
