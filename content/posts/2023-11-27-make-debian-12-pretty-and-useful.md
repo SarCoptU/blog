@@ -1,12 +1,5 @@
 ---
 title: Make Debian 12 Pretty and Useful
-cover:
- image: "/uploads/2023/11/debian-1.png"
- alt: ""
- relative: false
- hidden: false
- hiddenInList: false
- hiddenInSingle: false
 author: SarCoptU
 date: 2023-11-27T17:40:10+00:00
 

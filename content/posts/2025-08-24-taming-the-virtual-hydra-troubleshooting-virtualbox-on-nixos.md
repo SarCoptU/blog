@@ -1,7 +1,5 @@
 ---
 title: 'Taming the Virtual Hydra: Troubleshooting VirtualBox on NixOS'
-cover:
-  image: "//uploads/2025/08/hydra-virtualbox.jpg"
 author: SarCoptU
 date: 2025-08-24T21:37:14+00:00
 

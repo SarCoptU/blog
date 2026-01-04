@@ -1,12 +1,5 @@
 ---
 title: Ad-Free Network with Pi-hole
-cover:
- image: "/uploads/2021/05/tools1.jpg"
- alt: ""
- relative: false
- hidden: false
- hiddenInList: false
- hiddenInSingle: false
 author: SarCoptU
 date: 2021-05-16T23:21:19+00:00
 
@@ -21,7 +14,7 @@ tags:
 ---
 This is a tutorial for installing Pi-hole on your home network. As the devs on the <a rel="noreferrer noopener" href="https://pi-hole.net/" target="_blank">pi-hole.net</a> put it, it is a &#8220;network-wide ad blocking&#8221; solution. The app acts as a DNS (domain name system) server. More info on this <a rel="noreferrer noopener" href="https://en.wikipedia.org/wiki/Domain_Name_System" target="_blank">wiki</a>. It basically sends ad queries that you generate when you visit a website to nowhere (hence the cosmic flavor of the app name). 
 
-### Ingredients {.wp-block-heading}
+### Ingredients
 
 A few elements are needed for the setup. In this tutorial, I will use a pi zero computer, but the setup can be done on a slew of devices and there is also a docker install.
 

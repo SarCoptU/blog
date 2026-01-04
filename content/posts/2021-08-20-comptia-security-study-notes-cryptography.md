@@ -1,12 +1,5 @@
 ---
 title: 'CompTIA Security + Study Notes: Cryptography'
-cover:
- image: "/uploads/2021/09/480px-CipherDisk2000.jpg"
- alt: ""
- relative: false
- hidden: false
- hiddenInList: false
- hiddenInSingle: false
 author: SarCoptU
 date: 2021-08-20T09:41:27+00:00
 

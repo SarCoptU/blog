@@ -1,12 +1,5 @@
 ---
 title: Finished High School Maths
-cover:
- image: "/uploads/2021/04/Khan_Academy_Logo.jpg"
- alt: ""
- relative: false
- hidden: false
- hiddenInList: false
- hiddenInSingle: false
 author: SarCoptU
 date: 2021-05-09T10:55:14+00:00
 

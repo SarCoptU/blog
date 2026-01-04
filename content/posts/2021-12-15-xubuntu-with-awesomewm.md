@@ -1,12 +1,5 @@
 ---
 title: Xubuntu with AwesomeWM
-cover:
- image: "/uploads/2021/12/xfce.png"
- alt: ""
- relative: false
- hidden: false
- hiddenInList: false
- hiddenInSingle: false
 author: SarCoptU
 date: 2021-12-15T15:20:05+00:00
 

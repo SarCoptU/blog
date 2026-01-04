@@ -1,12 +1,5 @@
 ---
 title: SSH Connect to a Kali Virtual Machine in Virtualbox
-cover:
- image: "/uploads/2024/01/Screenshot-from-2024-01-13-09-04-13.png"
- alt: ""
- relative: false
- hidden: false
- hiddenInList: false
- hiddenInSingle: false
 author: SarCoptU
 date: 2024-01-13T09:26:48+00:00
 

@@ -1,12 +1,5 @@
 ---
 title: Raspberry Pi NAS with Open Media Vault and Plex
-cover:
- image: "/uploads/2022/01/ingredients.jpg"
- alt: ""
- relative: false
- hidden: false
- hiddenInList: false
- hiddenInSingle: false
 author: SarCoptU
 date: 2022-01-31T21:27:24+00:00
 

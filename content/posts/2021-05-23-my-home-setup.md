@@ -1,12 +1,5 @@
 ---
 title: Tweaks on Home Computer (Mostly GNU/Linux)
-cover:
- image: "/uploads/2021/05/mac-keyboard.jpg"
- alt: ""
- relative: false
- hidden: false
- hiddenInList: false
- hiddenInSingle: false
 author: SarCoptU
 date: 2021-05-23T22:29:45+00:00
 
@@ -21,13 +14,13 @@ tags:
 ---
 I have some peculiarities for my desktop setup that I use every time I reinstall a new OS. So instead of researching how to do the setup all over every time I reinstall an OS, dual boot, or distro hop, I will throw them all in a blog post and save some keystrokes and a bit of time. On my main computer, an old Dell Optiplex, with an NVIDIA GTX1650, I am dual-booting Kubuntu 20.04 and Windows 10.
 
-### Caps Lock/Left Control Swap {.wp-block-heading}<figure class="wp-block-image size-large is-style-default">
+### Caps Lock/Left Control Swap <figure class="wp-block-image size-large is-style-default">
 
 <img data-recalc-dims="1" loading="lazy" decoding="async" width="750" height="361" src="/uploads/2021/05/mac-keyboard.jpg" alt="Apple's magic keyboard" class="wp-image-194" sizes="auto, (max-width: 750px) 100vw, 750px" /> <figcaption>The culprit</figcaption></figure> 
 
 It all started with 20 quid spent on Amazon. I was hooked when I saw the design but did not want to spend a fortune on it, so I bought it used and with a Japanese layout. The layout on this keyboard and the playing around with Emacs gave me an idea to make life easier for my left pinky: swap Caps Lock key with Left Control. Here&#8217;s how to do it on Windows, GNU/Linux and macOS.
 
-##### Windows {.wp-block-heading}
+##### Windows 
 
 There are a plethora of small apps to change the keyboard mapping. The one I use at the moment is KeyTweak. The program was created by a developer called Travis Krumsick and it works well for my purpose. 
 

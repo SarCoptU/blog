@@ -1,12 +1,5 @@
 ---
 title: 'Network + Study Notes: Open System Interconnection (OSI) Network Model'
-cover:
- image: "/uploads/2021/06/Home.jpg"
- alt: ""
- relative: false
- hidden: false
- hiddenInList: false
- hiddenInSingle: false
 author: SarCoptU
 date: 2021-06-13T07:00:00+00:00
 
