@@ -16,7 +16,7 @@ tags:
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
-## &#x1f5a5;&#xfe0f; NixOS Essentials {.wp-block-heading}<figure class="wp-block-table">
+## &#x1f5a5;&#xfe0f; NixOS Essentials <figure class="wp-block-table">
 
 <table class="has-fixed-layout">
  <tr>
@@ -92,7 +92,7 @@ tags:
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
-## &#x26a1; Flakes Basics {.wp-block-heading}<figure class="wp-block-table">
+## &#x26a1; Flakes Basics<figure class="wp-block-table">
 
 <table class="has-fixed-layout">
  <tr>
